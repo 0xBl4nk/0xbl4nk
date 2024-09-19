@@ -32,10 +32,10 @@ int main() {
   return EXIT_SUCCESS;
 }
 ```
-<img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
+<a href="http://www.github.com/arthurhydr"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></a>
 <div align="center">
   <a href="http://www.github.com/arthurhydr"><img width="60%" src="https://github-readme-stats.vercel.app/api?username=Arthurhydr&hide=&count_private=true&bg_color=0D1117&theme=react&hide_border=true&show_icons=true"/></a>
   <a href="http://www.github.com/arthurhydr"><img width="38.25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurHydr&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/></a>
 </div>
-<img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
-<img src="https://github-profile-trophy.vercel.app/?username=ArthurHydr&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true">
+<a href="http://www.github.com/arthurhydr"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></a>
+<a href="http://www.github.com/arthurhydr"><img src="https://github-profile-trophy.vercel.app/?username=ArthurHydr&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true"></a>
