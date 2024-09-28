@@ -13,7 +13,7 @@ class Me {
     std::string name = "Arthur Ottoni";
     std::string age = "18";
     std::string skills = "Pentester, Bug-Hunter, CTF-Player";
-    std::string tech = "Linux, Git, Docker, Python, C/C++, JavaScript, SQL, PHP";
+    std::string tech = "Linux, Git, Docker, GoLang, Python, C/C++, JavaScript, SQL, PHP";
     std::string extra = "x86_64 assembly, BrainFuck";
 
   private:
